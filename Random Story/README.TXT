@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------
-The project creates randomly generated stories from a set of random words.
+Counts the word
 ------------------------------------------------------------------------
 
 PROJECT TITLE:Random story
